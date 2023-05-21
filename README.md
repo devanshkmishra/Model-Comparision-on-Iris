@@ -1,4 +1,4 @@
-# acmRound2
+# Logistic Regression vs Neural Network on Iris Dataset
 
 Project for ACM-VIT recruitments Round 2. 
 
